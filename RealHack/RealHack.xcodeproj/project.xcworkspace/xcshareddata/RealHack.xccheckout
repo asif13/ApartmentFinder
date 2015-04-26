@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9C480C41-B0DC-418E-896B-6AF170593D07</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RealHack</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CEFB0F8C8FE57FEA2516A94EC559F7EBE91BB4CE</key>
+		<string>https://github.com/asif13/ApartmentFinder.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RealHack/RealHack.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CEFB0F8C8FE57FEA2516A94EC559F7EBE91BB4CE</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/asif13/ApartmentFinder.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CEFB0F8C8FE57FEA2516A94EC559F7EBE91BB4CE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CEFB0F8C8FE57FEA2516A94EC559F7EBE91BB4CE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ApartmentFinder</string>
+		</dict>
+	</array>
+</dict>
+</plist>

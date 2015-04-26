@@ -1,0 +1,20 @@
+{
+    "status": "single",
+    "sports": [
+               "cricket",
+               "footbal"
+               ],
+    "gender": "0",
+    "veg": "0",
+    "office": "yashwanthpur",
+    "school": "whitefield",
+    "prferenceFood": [
+                      "north",
+                      "biryani"
+                      ],
+    "religion": "athiest",
+    "budget": [
+               "19000",
+               "70000"
+               ]
+}
